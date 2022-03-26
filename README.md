@@ -1,5 +1,5 @@
 # Algorithm Study 
-## Impove problem-solving skills </br></br>
+Impove problem-solving skills </br></br>
 
 
 ✏️  Language  
