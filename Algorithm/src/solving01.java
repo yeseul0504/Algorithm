@@ -1,6 +1,6 @@
 class solving01 {
-    //프로그래머스 LV.2 : 깊이 우선 탐색 알고리즘 
-    //타겟 넘버
+    //프로그래머스 : 깊이 우선 탐색 알고리즘
+    //타겟 넘버(LV.2)
 
     public static void main(String[] args) {
         int[] numbers = {1,1,1,1,1};    
